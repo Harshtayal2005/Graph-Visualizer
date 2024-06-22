@@ -24,7 +24,7 @@ const WelcomeNav = () => {
       >
         <ul className="flex flex-col items-center gap-4">
           <a
-            href="https://github.com/himanshusyuni/Graph-Visualizer"
+            href="https://github.com/Harshtayal2005/Graph-Visualizer"
             target="_blank"
             onClick={() => handleMenuClick()}
           >
@@ -46,7 +46,7 @@ const WelcomeNav = () => {
           <span className="text-green-600 font-bold">OP/&gt;</span>
         </div>
         <a
-          href="https://github.com/himanshusyuni/Graph-Visualizer"
+          href="https://github.com/Harshtayal2005/Graph-Visualizer"
           target="_blank"
         >
           <button className="hidden sm:flex gap-1 bg-black border border-black sm:py-[0.8rem] sm:px-[1.2rem] px-[0.8rem] py-[0.4rem] rounded-3xl items-center justify-center text-white sm:text-[1.2rem] text-[1rem]">
